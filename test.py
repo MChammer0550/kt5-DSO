@@ -1,1 +1,2 @@
-print("helloworld'Print'")
+x = input("Введите что будет выведено: ")
+print(x)
