@@ -1,2 +1,2 @@
-x = input("Введите что будет выведено: ")
-print(x)
+user_input = input("Введите что будет выведено: "
+print(user_input)
